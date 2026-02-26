@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+opencv-python
+matplotlib
+tqdm
+imageio
+transformers
+accelerate
+pillow
+git+https://github.com/facebookresearch/segment-anything.git
